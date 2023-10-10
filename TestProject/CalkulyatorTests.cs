@@ -46,6 +46,7 @@ namespace TestProject
             //act
             int natija = _calc.Minus(son1, son2);
 
+            //nimadir
             //assert
             Assert.AreEqual(kutilgan_son, natija);
         }
